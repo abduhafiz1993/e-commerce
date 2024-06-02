@@ -1,2 +1,1 @@
-<h1>Home template
-</h1>
+@extends('frontend.master');
